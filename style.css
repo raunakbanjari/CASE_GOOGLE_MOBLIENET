@@ -1,0 +1,25 @@
+body{
+    background-color: blanchedalmond;
+    font-family: cursive , sans-serif;
+}
+.test_image_and_result{
+    background-color: lightslategray;
+    width: max-content;
+    border-radius: 50px;
+    height: max-content;
+}
+#hi{
+    background-color: azure;
+    border-radius: 75px;
+    color: red;
+    
+}
+.copy_right_footer{
+    position: fixed;
+    color: white;
+    bottom: 0px;
+    width: 100%;
+    background-color: grey;
+    text-align: center;
+    line-height: 3;
+}
